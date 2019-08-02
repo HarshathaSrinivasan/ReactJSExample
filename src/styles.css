@@ -1,0 +1,24 @@
+.Header{
+  padding: 30px;
+  text-align: center;
+}
+.mid_div{
+  margin-top:20px;
+  margin-left:10%;
+  margin-right:10%;
+  text-align: center;
+}
+
+.top_div{
+  margin-top: 100px;
+  margin-left:10%;
+  margin-right:10%;
+  text-align: center;
+}
+
+.Footer{
+  position: relative;
+  text-align: center;
+  margin-top: 555px;
+}
+
